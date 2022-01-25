@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\bin\Debug\net6.0\Calculadora_Area_Residencial.exe
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\bin\Debug\net6.0\Calculadora_Area_Residencial.deps.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\bin\Debug\net6.0\Calculadora_Area_Residencial.runtimeconfig.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\bin\Debug\net6.0\Calculadora_Area_Residencial.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\bin\Debug\net6.0\ref\Calculadora_Area_Residencial.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\bin\Debug\net6.0\Calculadora_Area_Residencial.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\obj\Debug\net6.0\Calculadora_Area_Residencial.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\obj\Debug\net6.0\Calculadora_Area_Residencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\obj\Debug\net6.0\Calculadora_Area_Residencial.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\obj\Debug\net6.0\Calculadora_Area_Residencial.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\obj\Debug\net6.0\Calculadora_Area_Residencial.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\obj\Debug\net6.0\Calculadora_Area_Residencial.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\obj\Debug\net6.0\ref\Calculadora_Area_Residencial.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\obj\Debug\net6.0\Calculadora_Area_Residencial.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Area_Residencial\obj\Debug\net6.0\Calculadora_Area_Residencial.genruntimeconfig.cache
